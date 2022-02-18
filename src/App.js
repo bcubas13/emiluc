@@ -13,9 +13,13 @@ function App() {
         <h2>
           Hola BICV;
         </h2>
+        <h3>
+          Mis hijos se llaman;
+        </h3>
         <h4>
-          Emiliano --- Luca;
+          Emiliano y Luca;
         </h4>
+
         <a
           className="App-link"
           href="https://reactjs.org"
